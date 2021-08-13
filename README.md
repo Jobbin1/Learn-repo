@@ -1,2 +1,2 @@
 # Learn
-Learn Git and Githyb
+Learn Git and Github
